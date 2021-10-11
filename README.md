@@ -4,7 +4,7 @@
 
 1. Clone the project from following link
 
-> https://github.com/pathmilawk/ShopBuddy.git
+> https://github.com/pathmilawk/shop-buddy.git
 
 2. cd into the project folder
 3. Run `npm install` to install the dependancies
