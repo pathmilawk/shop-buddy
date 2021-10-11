@@ -9,5 +9,3 @@
 2. cd into the project folder
 3. Run `npm install` to install the dependancies
 4. Run app using `npm run start`
-
-![alt text](./screems/cart.PNG)
