@@ -10,4 +10,4 @@
 3. Run `npm install` to install the dependancies
 4. Run app using `npm run start`
 
-![alt text](./screems/cart)
+![alt text](./screems/cart.PNG)
