@@ -1,4 +1,4 @@
-## ShoppBuddy -  Simple shopping cart developed using React
+## ShoppBuddy -  Simple shopping cart developed using React and Redux
 #
 ### Setup and Run the React application
 
